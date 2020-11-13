@@ -1,0 +1,18 @@
+image: maven:3.3.9-jdk-8
+cache:
+  paths:
+    - /root/.m2/repository/
+
+
+pages:
+  stage: deploy
+  script:
+  - echo 'Instalando version'
+  - mvn clean package site:site -B
+  - mkdir public
+  - cp -r target/site/* public
+  artifacts:
+    paths:
+    - public
+  only:
+  - master

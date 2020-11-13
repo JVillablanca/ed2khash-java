@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <version position="right"/>
+  <body>
+    <menu name="FAQ">
+	   <item name="Consultas Comunes"  href="faq.html" />
+	</menu>
+    <menu ref="reports" />
+  </body>
+</project>

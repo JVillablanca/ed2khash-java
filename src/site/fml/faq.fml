@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faqs id="FAQ" title="Preguntas Comunes">
+  <part id="General">
+    <faq id="codvid">
+      <question>¿Que es un Hash?</question>
+      <answer>
+        <p>
+         Un Hash es el resultado de un algoritmo... 
+        </p>
+      </answer>
+    </faq>
+  </part>
+</faqs>

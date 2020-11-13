@@ -1,0 +1,25 @@
+                                      ---
+                        Documentacion Libreria Lib-Ed2KHASH
+						              ---
+						         18 Septiembre 2018
+								      ---
+							     Mordekay
+                                      ---
+  
+Documentación Libreria ..
+
+ Este sitio contiene informacion relevante al contenido y utilidades dentro de la libreria.
+
+Las Excepciones
+
+  Las excepciones estaran agrupadas en base al concepto de caja negra, de esta manera existen principalmente tres tipos de excepciones que se deben considerar.
+  
+  * <<ParameterException>>: Esta exception se levanta cuando los parametros o informacion de entrada son recepcionados por la aplicacion y gracias a un proceso de validacion se detecta que estos no son validos.
+  
+
+
+  
+   
+
+  
+  
