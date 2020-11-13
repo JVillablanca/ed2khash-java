@@ -62,7 +62,7 @@ import com.dwarfanvil.utils.ed2khash.Status;
 
 /**
  * Muestra una barra de progreso en la consola
- * @author Mordekay
+ * @author Juan Villablanca
  *
  */
 public class StatusBarSingle implements Status {

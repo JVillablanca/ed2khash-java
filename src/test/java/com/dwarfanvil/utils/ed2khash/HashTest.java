@@ -15,7 +15,7 @@ import com.dwarfanvil.utils.ed2khash.Status;
 
 /**
  * Clase de pruebas
- * @author Mordekay
+ * @author Juan Villablanca
  *
  */
 public class HashTest {
